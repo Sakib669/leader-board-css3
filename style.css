@@ -211,6 +211,9 @@ hr {
 
 /* mobile devices */
 @media only screen and (max-width:688px) {
+    .header{
+        display: none;
+    }
     .container {
         width: 100%;
     }
